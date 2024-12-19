@@ -1,11 +1,14 @@
 public class YinYangSolver {
     private Board papan;
 
-    public YinYangSolver(char[][] arrPapan) {
-        this.papan = new Board(arrPapan);
+    public YinYangSolver(char[][] arrPapan, int ukuran) {
+        this.papan = new Board(arrPapan, ukuran);
     }
 
     public void solve() {
-        System.out.println("Halo Memekers");
+        for(int iterasi = 1; iterasi <= 500; iterasi++) {
+            //todo
+            System.out.println("hehehe\n");
+        }
     }
 }
