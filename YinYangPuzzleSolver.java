@@ -33,7 +33,6 @@ public class YinYangPuzzleSolver {
 
             // Jika ditemukan solusi (fitness = 0), akhiri proses dan kembalikan solusi.
             if (best.fitness == 0) {
-                System.out.println("Random Seed: " + GeneratorRandom.getSeed());
                 System.out.println("Solution found in generation " + generation);
                 return best.grid;
             }

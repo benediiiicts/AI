@@ -17,6 +17,7 @@ public class Main {
                 int[][] solution = solver.solvePuzzle(initialGrid);
 
                 // Tulis hasil ke file output
+                writer.write("Random Seed: " + GeneratorRandom.getSeed() + "\n");
                 writer.write("Puzzle " + puzzleNumber + " Solution:\n");
                 for (int[] row : solution) {
                     for (int cell : row) {
