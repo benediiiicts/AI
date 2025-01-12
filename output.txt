@@ -1,0 +1,10 @@
+Masukkan ukuran grid (NxN): Masukkan grid awal (0 untuk kosong, 1 untuk hitam, 2 untuk putih):
+Random Seed: 178456
+Solution found in generation 49
+Solution:
+2 2 2 2 2 2 
+2 1 1 2 1 2 
+2 1 2 2 1 2 
+1 1 1 2 1 2 
+1 2 2 2 1 2 
+1 1 1 1 1 1 

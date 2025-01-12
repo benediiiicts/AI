@@ -1,0 +1,108 @@
+Random Seed: 178456
+Puzzle 1 Solution:
+2 2 2 2 2 2 
+2 1 1 1 2 1 
+2 2 2 1 1 1 
+2 1 2 2 1 2 
+2 1 1 1 1 2 
+2 2 2 2 2 2 
+
+Random Seed: 178456
+Puzzle 2 Solution:
+1 1 1 1 1 1 
+1 2 2 2 2 1 
+1 1 2 1 2 1 
+2 1 2 1 1 1 
+2 1 2 2 2 1 
+2 2 2 1 1 1 
+
+Random Seed: 178456
+Puzzle 3 Solution:
+2 2 2 2 2 2 
+1 1 1 2 1 2 
+1 2 1 2 1 1 
+1 2 2 2 2 1 
+1 2 1 1 2 1 
+1 1 1 2 2 1 
+
+Random Seed: 178456
+Puzzle 4 Solution:
+2 2 2 1 1 1 
+2 1 2 1 2 1 
+2 1 2 2 2 1 
+2 1 1 2 1 1 
+2 1 2 2 2 1 
+2 1 1 1 1 1 
+
+Random Seed: 178456
+Puzzle 5 Solution:
+1 1 1 1 1 1 
+2 2 2 2 2 1 
+2 1 2 1 2 1 
+2 1 2 1 2 1 
+2 1 1 1 1 1 
+2 2 2 2 2 2 
+
+Random Seed: 178456
+Puzzle 6 Solution:
+1 2 2 2 2 2 
+1 1 2 1 1 2 
+1 2 2 2 1 2 
+1 2 1 1 1 2 
+1 2 2 1 2 2 
+1 1 1 1 1 2 
+
+Random Seed: 178456
+Puzzle 7 Solution:
+2 2 2 2 2 2 
+1 1 1 2 1 2 
+1 2 2 2 1 2 
+1 2 1 2 1 2 
+1 2 1 2 1 2 
+1 1 1 1 1 2 
+
+Random Seed: 178456
+Puzzle 8 Solution:
+2 2 2 1 1 1 
+2 1 2 2 2 1 
+2 1 1 1 1 1 
+2 2 2 1 2 2 
+2 1 1 1 1 2 
+2 2 2 2 2 2 
+
+Random Seed: 178456
+Puzzle 9 Solution:
+2 2 2 2 2 2 
+1 2 1 2 1 2 
+1 1 1 1 1 2 
+2 1 2 2 1 2 
+2 1 1 2 1 2 
+2 2 2 2 2 2 
+
+Random Seed: 178456
+Puzzle 10 Solution:
+1 2 2 2 2 2 
+1 1 2 1 1 1 
+1 2 2 2 2 1 
+1 1 2 1 2 1 
+2 1 1 1 2 1 
+2 2 2 2 2 1 
+
+Random Seed: 178456
+Puzzle 11 Solution:
+1 2 2 2 2 2 
+1 1 1 1 1 2 
+2 2 2 2 1 2 
+1 1 1 2 2 2 
+1 2 1 1 1 2 
+1 2 2 2 2 2 
+
+Random Seed: 178456
+Puzzle 12 Solution:
+2 1 2 2 2 2 
+2 2 2 1 1 1 
+2 1 1 1 2 1 
+2 2 2 1 2 1 
+2 1 1 1 2 1 
+2 2 2 2 2 1 
+
